@@ -1,1 +1,1 @@
-# issue-tracker-practice
+# issue-tracker-project
